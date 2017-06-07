@@ -1,0 +1,2 @@
+# AndroidGradleSimpleConfig
+Android使用Gradle的一些简单配置让开发更方便
